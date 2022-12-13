@@ -1,6 +1,8 @@
 # Pylar Data Downloader
 
-This script uses the `requests` library to download the content of web pages from the URL "https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds" and saves them to a local data folder called "pylar.data". It does this by looping through the rounds of the competition, using the `requests` library to download the content of each round's web page and save it to a file in the local data folder. If the file already exists, the script checks if it has been updated and only overwrites the file if the content of the web page has changed.
+To modify the code to check on https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds what is the first td inside tbody and print it, you can use the requests library to make a GET request to the competition rounds URL and parse the response using a library like BeautifulSoup. You can then find the first td inside the tbody and print its text. You can also set the value of the first td to the max_rounds variable in the code.
+
+Here is an example of how you can modify the code to achieve this:
 
 ## About the License
 
