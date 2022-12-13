@@ -1,12 +1,22 @@
 import requests
 
-# Set the URL of the website you want to log
-url = 'https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds'
+# URL of the competition rounds
+competition_url = "https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds"
 
-# Send a GET request to the website and store the response
-response = requests.get(url)
+# Folder where the downloaded files will be saved
+data_folder = "pylar.data"
 
-# Open a file for writing
-with open('website_contents.pylar', 'w') as f:
-    # Write the contents of the website to the file
-    f.write(response.text)
+# Loop through the rounds of the competition
+for round_number in range(1, 343+1):
+    round_url = f"{competition_url}/{round_number}"
+
+    # Check if the round page has changed
+    page_content = requests.get(round_url).text
+    with open(f"{data_folder}/{round_number}.html", "r") as f:
+        previous_content = f.read()
+    if page_content == previous_content:
+        continue
+
+    # Save the updated page to the data folder
+    with open(f"{data_folder}/{round_number}.html", "w") as f:
+        f.write(page_content)

@@ -1,41 +1,9 @@
 # python-GET
 Python GET app
 
-The code provided is a Python script that uses the requests library to send a GET request to a specified website and then write the contents of the website to a file.
-To use the script, you will need to have the requests library installed. This can be done by running pip install requests in a terminal or command prompt.
-The script begins by importing the requests library. This is necessary in order to use the requests.get method, which is used to send a GET request to the website.
+This code will download the pages of the competition rounds and save them to the pylar.data folder. If you run the code again, it will only download the rounds that have been updated since the last time you ran the code.
 
-```
-import requests
-````
-
-Next, the URL of the website you want to log is set as a variable. This variable is then used to send a GET request to the website. The response to the request is stored in a variable called response.
-
-### Set the URL of the website you want to log
-
-```
-url = 'https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds'
-```
-
-### Send a GET request to the website and store the response
-
-```
-response = requests.get(url)
-```
-
-The script then opens a file for writing using the open function. The with keyword is used to ensure that the file is automatically closed when the writing is finished. The write method of the response object is used to write the contents of the website to the file.
-
-### Open a file for writing
-
-```
-with open('website_contents.md', 'w') as f:
-    # Write the contents of the website to the file
-    f.write(response.text)
-```
-
-This script will write the contents of the website to a file named website_contents.md in the current working directory. You can change the filename and file location to suit your needs.
-
-Once the script is run, the contents of the website will be saved to the specified file. You can then view the contents of the website by opening the file in a text editor or other program that can read Markdown files.
+Note: This code is only a rough sketch and may not work as-is. It is missing some error handling and other details. You may need to modify it to make it work for your specific use case.
 
 ## About the License
 
