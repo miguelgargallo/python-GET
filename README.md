@@ -1,14 +1,7 @@
 # python-GET
 Python GET app
 
-This code will download the pages of the competition rounds and save them to the pylar.data folder. If you run the code again, it will only download the rounds that have been updated since the last time you ran the code.
-
-Note: This code is only a rough sketch and may not work as-is. It is missing some error handling and other details. You may need to modify it to make it work for your specific use case.
-
-by adding the necessary code to parse the HTML content of each round page using BeautifulSoup and extract the relevant information from it. This information might include the problems for the round, the winners and their solutions, and other details about the round. The extracted information can then be stored in variables or data structures for further processing or analysis.
-
-Here is an example of how the parsing and extraction might be done using BeautifulSoup:
-
+This code is a script that downloads the content of web pages from the URL "https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds" and saves them to a local data folder called "pylar.data". It does this by looping through the rounds of the competition, using the requests library to download the content of each round's web page and save it to a file in the local data folder. If the file already exists, the script checks if it has been updated and only overwrites the file if the content of the web page has changed.
 
 ## About the License
 
