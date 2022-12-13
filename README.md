@@ -37,10 +37,7 @@ This script will write the contents of the website to a file named website_conte
 
 Once the script is run, the contents of the website will be saved to the specified file. You can then view the contents of the website by opening the file in a text editor or other program that can read Markdown files.
 
-
-
-
-
+## About the License
 
 You can use this as a template for your projects, just use the template or fork! and delete this file and mantain "License.md"
 
