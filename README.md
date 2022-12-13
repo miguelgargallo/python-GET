@@ -5,6 +5,11 @@ This code will download the pages of the competition rounds and save them to the
 
 Note: This code is only a rough sketch and may not work as-is. It is missing some error handling and other details. You may need to modify it to make it work for your specific use case.
 
+by adding the necessary code to parse the HTML content of each round page using BeautifulSoup and extract the relevant information from it. This information might include the problems for the round, the winners and their solutions, and other details about the round. The extracted information can then be stored in variables or data structures for further processing or analysis.
+
+Here is an example of how the parsing and extraction might be done using BeautifulSoup:
+
+
 ## About the License
 
 You can use this as a template for your projects, just use the template or fork! and delete this file and mantain "License.md"
