@@ -5559,10 +5559,395 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
             <div class='visible-md visible-lg visible-xl'><div class='panel panel-default'><table class='table table-striped'>
                         <tr>
                         <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6766'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6766'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='text-danger' title='Oriol Ramos Puig'>Jutgol</td>
+                        <td class='text-danger text-right'>5690
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Eduardo Cid Perez'>Sii</td>
+                        <td class='text-danger text-right'>4974
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Alvar Dalda Svärd'>Pikachu</td>
+                        <td class=' text-right'>5833
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Bart Sebastiaan Zanen'>SimpsonV2</td>
+                        <td class=' text-right'>6323
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6767'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6767'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Rozhina Ahmadi'>Roj</td>
+                        <td class=' text-right'>6186
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Andreu Sabater López'>Granger2</td>
+                        <td class=' text-right'>6659
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Mireia Oltra'>Curie</td>
+                        <td class='text-danger text-right'>6125
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Alejandra Traveria Marti'>PapaNoel</td>
+                        <td class='text-danger text-right'>4863
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6768'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6768'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='text-danger' title='Kenneth Leander Salazar Cardoza'>Ken</td>
+                        <td class='text-danger text-right'>4940
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Marc Peña Lluch'>Edelberto</td>
+                        <td class='text-danger text-right'>7223
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Laura Fornaguera Mingueza'>patata</td>
+                        <td class=' text-right'>8325
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Pau Campillo Soro'>SUBARU_WRC</td>
+                        <td class=' text-right'>7306
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6769'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6769'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Pol Beltrán Acín'>Rick_Grimes</td>
+                        <td class=' text-right'>5955
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Marc Font Cabarrocas'>Font</td>
+                        <td class=' text-right'>6371
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Roger Ortega Castilló'>Blockrov2</td>
+                        <td class='text-danger text-right'>4671
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Xavier Medina Valles'>Komugi</td>
+                        <td class='text-danger text-right'>5913
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6770'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6770'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Andreu Martín Ferrer'>Andreu</td>
+                        <td class=' text-right'>9314
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='David Benedicto Sedas'>sinverg</td>
+                        <td class='text-danger text-right'>6120
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Matteo Verdaguer Marchesin'>PetitMarques</td>
+                        <td class='text-danger text-right'>6295
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Jordi Adell Moreno'>Littlefinger</td>
+                        <td class=' text-right'>7272
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6771'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6771'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Guillem Marroig Balagué'>JorgeTabet</td>
+                        <td class=' text-right'>7325
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Hugo Tienza Ortega'>LuisPadrique</td>
+                        <td class='text-danger text-right'>6619
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Sergi Gonzalez Martos'>Bot_v1</td>
+                        <td class=' text-right'>7030
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='text-danger' title='Competitions'>Dummy</td>
+                        <td class='text-danger text-right'>6063
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    </tr></table></div></div><div class='hidden-md hidden-lg hidden-xl'><div class='panel panel-default'><table class='table table-striped'>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6766'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6766'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='text-danger' title='Oriol Ramos Puig'>Jutgol
+                        <br/>
+                        5690
+                        </td>
+                    
+                        <td class='text-danger' title='Eduardo Cid Perez'>Sii
+                        <br/>
+                        4974
+                        </td>
+                    
+                        <td class='' title='Alvar Dalda Svärd'>Pikachu
+                        <br/>
+                        5833
+                        </td>
+                    
+                        <td class='' title='Bart Sebastiaan Zanen'>SimpsonV2
+                        <br/>
+                        6323
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6767'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6767'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Rozhina Ahmadi'>Roj
+                        <br/>
+                        6186
+                        </td>
+                    
+                        <td class='' title='Andreu Sabater López'>Granger2
+                        <br/>
+                        6659
+                        </td>
+                    
+                        <td class='text-danger' title='Mireia Oltra'>Curie
+                        <br/>
+                        6125
+                        </td>
+                    
+                        <td class='text-danger' title='Alejandra Traveria Marti'>PapaNoel
+                        <br/>
+                        4863
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6768'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6768'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='text-danger' title='Kenneth Leander Salazar Cardoza'>Ken
+                        <br/>
+                        4940
+                        </td>
+                    
+                        <td class='text-danger' title='Marc Peña Lluch'>Edelberto
+                        <br/>
+                        7223
+                        </td>
+                    
+                        <td class='' title='Laura Fornaguera Mingueza'>patata
+                        <br/>
+                        8325
+                        </td>
+                    
+                        <td class='' title='Pau Campillo Soro'>SUBARU_WRC
+                        <br/>
+                        7306
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6769'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6769'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Pol Beltrán Acín'>Rick_Grimes
+                        <br/>
+                        5955
+                        </td>
+                    
+                        <td class='' title='Marc Font Cabarrocas'>Font
+                        <br/>
+                        6371
+                        </td>
+                    
+                        <td class='text-danger' title='Roger Ortega Castilló'>Blockrov2
+                        <br/>
+                        4671
+                        </td>
+                    
+                        <td class='text-danger' title='Xavier Medina Valles'>Komugi
+                        <br/>
+                        5913
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6770'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6770'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Andreu Martín Ferrer'>Andreu
+                        <br/>
+                        9314
+                        </td>
+                    
+                        <td class='text-danger' title='David Benedicto Sedas'>sinverg
+                        <br/>
+                        6120
+                        </td>
+                    
+                        <td class='text-danger' title='Matteo Verdaguer Marchesin'>PetitMarques
+                        <br/>
+                        6295
+                        </td>
+                    
+                        <td class='' title='Jordi Adell Moreno'>Littlefinger
+                        <br/>
+                        7272
+                        </td>
+                    </tr>
+                        <tr>
+                        <td>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6771'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6771'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
+                        </td>
+                    
+                        <td class='' title='Guillem Marroig Balagué'>JorgeTabet
+                        <br/>
+                        7325
+                        </td>
+                    
+                        <td class='text-danger' title='Hugo Tienza Ortega'>LuisPadrique
+                        <br/>
+                        6619
+                        </td>
+                    
+                        <td class='' title='Sergi Gonzalez Martos'>Bot_v1
+                        <br/>
+                        7030
+                        </td>
+                    
+                        <td class='text-danger' title='Competitions'>Dummy
+                        <br/>
+                        6063
+                        </td>
+                    </tr></table></div></div><br/>
+                    <div class='panel panel-default'>
+                        <table class='table table-striped text-center'>
+                            <tr>
+                                <td>
+                                    <b>Turn 5</b>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+
+
+            <div class='visible-md visible-lg visible-xl'><div class='panel panel-default'><table class='table table-striped'>
+                        <tr>
+                        <td>
                             <img src='/img/wait2.gif'>
                         </td>
                     
-                        <td class='' title='Oriol Ramos Puig'>Jutgol</td>
+                        <td class='' title='Xavier Medina Valles'>Komugi</td>
                         <td class=' text-right'> 
                             &nbsp; &nbsp; &nbsp; 
                         </td>
@@ -5572,37 +5957,12 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Alvar Dalda Svärd'>Pikachu</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Bart Sebastiaan Zanen'>SimpsonV2</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    </tr>
-                        <tr>
-                        <td>
-                            <img src='/img/wait2.gif'>
-                        </td>
-                    
-                        <td class='' title='Rozhina Ahmadi'>Roj</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Andreu Sabater López'>Granger2</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Mireia Oltra'>Curie</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
                         <td class='' title='Alejandra Traveria Marti'>PapaNoel</td>
+                        <td class=' text-right'> 
+                            &nbsp; &nbsp; &nbsp; 
+                        </td>
+                    
+                        <td class='' title='Hugo Tienza Ortega'>LuisPadrique</td>
                         <td class=' text-right'> 
                             &nbsp; &nbsp; &nbsp; 
                         </td>
@@ -5617,52 +5977,12 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Marc Peña Lluch'>Edelberto</td>
+                        <td class='' title='Matteo Verdaguer Marchesin'>PetitMarques</td>
                         <td class=' text-right'> 
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Laura Fornaguera Mingueza'>patata</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Pau Campillo Soro'>SUBARU_WRC</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    </tr>
-                        <tr>
-                        <td>
-                            <img src='/img/wait2.gif'>
-                        </td>
-                    
-                        <td class='' title='Pol Beltrán Acín'>Rick_Grimes</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Marc Font Cabarrocas'>Font</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Roger Ortega Castilló'>Blockrov2</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Xavier Medina Valles'>Komugi</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    </tr>
-                        <tr>
-                        <td>
-                            <img src='/img/wait2.gif'>
-                        </td>
-                    
-                        <td class='' title='Andreu Martín Ferrer'>Andreu</td>
+                        <td class='' title='Oriol Ramos Puig'>Jutgol</td>
                         <td class=' text-right'> 
                             &nbsp; &nbsp; &nbsp; 
                         </td>
@@ -5671,39 +5991,35 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                         <td class=' text-right'> 
                             &nbsp; &nbsp; &nbsp; 
                         </td>
-                    
-                        <td class='' title='Matteo Verdaguer Marchesin'>PetitMarques</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
-                    
-                        <td class='' title='Jordi Adell Moreno'>Littlefinger</td>
-                        <td class=' text-right'> 
-                            &nbsp; &nbsp; &nbsp; 
-                        </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6774'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6774'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Guillem Marroig Balagué'>JorgeTabet</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Roger Ortega Castilló'>Blockrov2</td>
+                        <td class='text-danger text-right'>5267
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Hugo Tienza Ortega'>LuisPadrique</td>
-                        <td class=' text-right'> 
+                        <td class='' title='Mireia Oltra'>Curie</td>
+                        <td class=' text-right'>7000
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Sergi Gonzalez Martos'>Bot_v1</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Marc Peña Lluch'>Edelberto</td>
+                        <td class='text-danger text-right'>6091
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Competitions'>Dummy</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>6781
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr></table></div></div><div class='hidden-md hidden-lg hidden-xl'><div class='panel panel-default'><table class='table table-striped'>
@@ -5712,7 +6028,7 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                             <img src='/img/wait2.gif'>
                         </td>
                     
-                        <td class='' title='Oriol Ramos Puig'>Jutgol
+                        <td class='' title='Xavier Medina Valles'>Komugi
                         <br/>
                          
                         </td>
@@ -5722,37 +6038,12 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                          
                         </td>
                     
-                        <td class='' title='Alvar Dalda Svärd'>Pikachu
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Bart Sebastiaan Zanen'>SimpsonV2
-                        <br/>
-                         
-                        </td>
-                    </tr>
-                        <tr>
-                        <td>
-                            <img src='/img/wait2.gif'>
-                        </td>
-                    
-                        <td class='' title='Rozhina Ahmadi'>Roj
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Andreu Sabater López'>Granger2
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Mireia Oltra'>Curie
-                        <br/>
-                         
-                        </td>
-                    
                         <td class='' title='Alejandra Traveria Marti'>PapaNoel
+                        <br/>
+                         
+                        </td>
+                    
+                        <td class='' title='Hugo Tienza Ortega'>LuisPadrique
                         <br/>
                          
                         </td>
@@ -5767,52 +6058,12 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                          
                         </td>
                     
-                        <td class='' title='Marc Peña Lluch'>Edelberto
+                        <td class='' title='Matteo Verdaguer Marchesin'>PetitMarques
                         <br/>
                          
                         </td>
                     
-                        <td class='' title='Laura Fornaguera Mingueza'>patata
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Pau Campillo Soro'>SUBARU_WRC
-                        <br/>
-                         
-                        </td>
-                    </tr>
-                        <tr>
-                        <td>
-                            <img src='/img/wait2.gif'>
-                        </td>
-                    
-                        <td class='' title='Pol Beltrán Acín'>Rick_Grimes
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Marc Font Cabarrocas'>Font
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Roger Ortega Castilló'>Blockrov2
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Xavier Medina Valles'>Komugi
-                        <br/>
-                         
-                        </td>
-                    </tr>
-                        <tr>
-                        <td>
-                            <img src='/img/wait2.gif'>
-                        </td>
-                    
-                        <td class='' title='Andreu Martín Ferrer'>Andreu
+                        <td class='' title='Oriol Ramos Puig'>Jutgol
                         <br/>
                          
                         </td>
@@ -5821,40 +6072,36 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                         <br/>
                          
                         </td>
-                    
-                        <td class='' title='Matteo Verdaguer Marchesin'>PetitMarques
-                        <br/>
-                         
-                        </td>
-                    
-                        <td class='' title='Jordi Adell Moreno'>Littlefinger
-                        <br/>
-                         
-                        </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6774'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6774'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Guillem Marroig Balagué'>JorgeTabet
+                        <td class='text-danger' title='Roger Ortega Castilló'>Blockrov2
                         <br/>
-                         
+                        5267
                         </td>
                     
-                        <td class='' title='Hugo Tienza Ortega'>LuisPadrique
+                        <td class='' title='Mireia Oltra'>Curie
                         <br/>
-                         
+                        7000
                         </td>
                     
-                        <td class='' title='Sergi Gonzalez Martos'>Bot_v1
+                        <td class='text-danger' title='Marc Peña Lluch'>Edelberto
                         <br/>
-                         
+                        6091
                         </td>
                     
                         <td class='' title='Competitions'>Dummy
                         <br/>
-                         
+                        6781
                         </td>
                     </tr></table></div></div><br/>
             </div>
