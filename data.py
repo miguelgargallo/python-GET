@@ -17,17 +17,15 @@ for round_number in range(1, 242+1):
 
     # Check if the round page has changed
     page_content = requests.get(round_url).text
-    if not os.path.exists(f"{data_folder}/{round_number}.pylar"):
-        # If the file doesn't exist, download it
-        with open(f"{data_folder}/{round_number}.pylar", "w") as f:
-            f.write(page_content)
-    else:
-        # If the file already exists, check if it has been updated
+
+    # If the file already exists, check if it has been updated
+    if os.path.exists(f"{data_folder}/{round_number}.pylar"):
         with open(f"{data_folder}/{round_number}.pylar", "r") as f:
             previous_content = f.read()
         if page_content == previous_content:
+            # If the page hasn't changed, skip this round
             continue
 
-        # If the page has changed, update the file in the data folder
-        with open(f"{data_folder}/{round_number}.pylar", "w") as f:
-            f.write(page_content)
+    # If the file doesn't exist or the page has changed, update the file in the data folder
+    with open(f"{data_folder}/{round_number}.pylar", "w") as f:
+        f.write(page_content)
