@@ -6,8 +6,7 @@ url = 'https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds'
 # Send a GET request to the website and store the response
 response = requests.get(url)
 
-# Print the status code of the response (should be 200 if the request was successful)
-print(f'Status code: {response.status_code}')
-
-# Print the contents of the website
-print(response.text)
+# Open a file for writing
+with open('website_contents.md', 'w') as f:
+    # Write the contents of the website to the file
+    f.write(response.text)
