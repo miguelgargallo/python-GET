@@ -467,326 +467,404 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6787'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6787'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Oscar Garries'>Cbomba</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>10432
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Ferriol Falip Torras'>XDDD</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Ferriol Falip Torras'>XDDD</td>
+                        <td class='text-danger text-right'>6762
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Martí Cervantes Cabàs'>Joel</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Martí Cervantes Cabàs'>Joel</td>
+                        <td class='text-danger text-right'>5747
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Adrià Ruiz Puig'>Clementine</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7340
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6788'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6788'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Javier López Morales'>lomomoloo4</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7637
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Mariona Aguilera Folque'>Runi2</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Mariona Aguilera Folque'>Runi2</td>
+                        <td class='text-danger text-right'>6603
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Andrés Oriol Pagonabarraga'>Andrew</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Andrés Oriol Pagonabarraga'>Andrew</td>
+                        <td class='text-danger text-right'>7022
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Arnau Tomàs Homar'>Arnauiih_10</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>8958
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6789'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6789'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Ivan Cobos Navarro'>Pake</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Ivan Cobos Navarro'>Pake</td>
+                        <td class='text-danger text-right'>4519
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Sara Chillon'>dori4</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Sara Chillon'>dori4</td>
+                        <td class='text-danger text-right'>5757
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='David Rueda Clemente'>PIKABOSS</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7609
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Iván Parreño Benítez'>Navi_v2</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>8181
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6790'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6790'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Adrià Irigaray Pola'>Icey</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>6968
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Pablo Freire Insua'>hipoRoxter</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Pablo Freire Insua'>hipoRoxter</td>
+                        <td class='text-danger text-right'>6665
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Hossam Zerouali'>ZeRo_V3</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>8017
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Eduardo Cid Perez'>Sii</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Eduardo Cid Perez'>Sii</td>
+                        <td class='text-danger text-right'>5986
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6791'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6791'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Sara Díaz Morales'>Null3</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Sara Díaz Morales'>Null3</td>
+                        <td class='text-danger text-right'>6693
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Joaquim Ballester'>Quim</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Joaquim Ballester'>Quim</td>
+                        <td class='text-danger text-right'>6609
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Miguel Ángel Montero Flores'>Pequemiguel</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>8533
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Marc Morey Bergas'>DummyKiller</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7733
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6792'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6792'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Pau Campillo Soro'>SUBARU_WRC</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Pau Campillo Soro'>SUBARU_WRC</td>
+                        <td class='text-danger text-right'>5217
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Joel González Jiménez'>klk_manin13</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Joel González Jiménez'>klk_manin13</td>
+                        <td class='text-danger text-right'>6749
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Yassin El Kaisi'>KaisiBFS6</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>9600
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Arnau Claramunt Soler'>Cerberus12</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7523
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6793'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6793'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Àlex Vives Sánchez'>Echo</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>11877
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Momin Miah Begum'>amigos</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7603
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Carla Juanes Duran'>Ramonet</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Carla Juanes Duran'>Ramonet</td>
+                        <td class='text-danger text-right'>6779
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Joel Sanfeliu Ichihashi'>Jug</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Joel Sanfeliu Ichihashi'>Jug</td>
+                        <td class='text-danger text-right'>4527
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6794'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6794'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='David Cañadas López'>Vido</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>9133
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Pol Garcia Vernet'>Polopasi2</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Pol Garcia Vernet'>Polopasi2</td>
+                        <td class='text-danger text-right'>6901
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Ismael Tellez Cepeda'>Ismael</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Ismael Tellez Cepeda'>Ismael</td>
+                        <td class='text-danger text-right'>5929
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Daniel López Martínez'>korxet</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>8391
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6795'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6795'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Albert Comas Pacheco'>mifunc</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Albert Comas Pacheco'>mifunc</td>
+                        <td class='text-danger text-right'>5395
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Gorka Parra i Ordorica'>Gorka</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>9107
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Isha Shafqat'>Shafq</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Isha Shafqat'>Shafq</td>
+                        <td class='text-danger text-right'>5861
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Eduardo Gimeno'>Real_Zgz</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>5962
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6796'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6796'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Pol Beltrán Acín'>Rick_Grimes</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Pol Beltrán Acín'>Rick_Grimes</td>
+                        <td class='text-danger text-right'>4441
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Jordi Otal Salvans'>DeficientAlg</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>5729
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Mireia Oltra'>Curie</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Mireia Oltra'>Curie</td>
+                        <td class='text-danger text-right'>4459
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Giancarlo Morales Muñoz'>Don</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>5015
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6797'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6797'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Sergi Gonzalez Martos'>Bot_v1</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Sergi Gonzalez Martos'>Bot_v1</td>
+                        <td class='text-danger text-right'>6069
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Pol Plana Torrents'>Pol_v5_3_3</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Pol Plana Torrents'>Pol_v5_3_3</td>
+                        <td class='text-danger text-right'>7191
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Víctor González Bentué'>Vicebentu</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7636
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Nicolas Gonzalo Longueira Millicay'>Miguelito</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7469
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6798'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6798'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Alex Brichs de Rioja'>Joselu</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Alex Brichs de Rioja'>Joselu</td>
+                        <td class='text-danger text-right'>7091
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Isaias Vela Sotil'>Isaias</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>7707
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Roger Canal Estrada'>BigChannel</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Roger Canal Estrada'>BigChannel</td>
+                        <td class='text-danger text-right'>4785
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Guillem Nieto RIbó'>PrimeV3</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>10802
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6799'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6799'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='David Vendrell'>Loser2</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='David Vendrell'>Loser2</td>
+                        <td class='text-danger text-right'>3582
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Miquel Font Mercadié'>Miquel_FM3</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>13409
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
                         <td class='' title='Ricard Viñas'>Lilcaldo</td>
-                        <td class=' text-right'> 
+                        <td class=' text-right'>8479
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     
-                        <td class='' title='Oriol Ramos Puig'>Jutgol</td>
-                        <td class=' text-right'> 
+                        <td class='text-danger' title='Oriol Ramos Puig'>Jutgol</td>
+                        <td class='text-danger text-right'>3457
                             &nbsp; &nbsp; &nbsp; 
                         </td>
                     </tr>
@@ -1746,327 +1824,405 @@ xajax_generate_leaderboard_ajax = function() { return xajax.request( { xjxfun: '
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6787'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6787'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Oscar Garries'>Cbomba
                         <br/>
-                         
+                        10432
                         </td>
                     
-                        <td class='' title='Ferriol Falip Torras'>XDDD
+                        <td class='text-danger' title='Ferriol Falip Torras'>XDDD
                         <br/>
-                         
+                        6762
                         </td>
                     
-                        <td class='' title='Martí Cervantes Cabàs'>Joel
+                        <td class='text-danger' title='Martí Cervantes Cabàs'>Joel
                         <br/>
-                         
+                        5747
                         </td>
                     
                         <td class='' title='Adrià Ruiz Puig'>Clementine
                         <br/>
-                         
+                        7340
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6788'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6788'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Javier López Morales'>lomomoloo4
                         <br/>
-                         
+                        7637
                         </td>
                     
-                        <td class='' title='Mariona Aguilera Folque'>Runi2
+                        <td class='text-danger' title='Mariona Aguilera Folque'>Runi2
                         <br/>
-                         
+                        6603
                         </td>
                     
-                        <td class='' title='Andrés Oriol Pagonabarraga'>Andrew
+                        <td class='text-danger' title='Andrés Oriol Pagonabarraga'>Andrew
                         <br/>
-                         
+                        7022
                         </td>
                     
                         <td class='' title='Arnau Tomàs Homar'>Arnauiih_10
                         <br/>
-                         
+                        8958
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6789'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6789'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Ivan Cobos Navarro'>Pake
+                        <td class='text-danger' title='Ivan Cobos Navarro'>Pake
                         <br/>
-                         
+                        4519
                         </td>
                     
-                        <td class='' title='Sara Chillon'>dori4
+                        <td class='text-danger' title='Sara Chillon'>dori4
                         <br/>
-                         
+                        5757
                         </td>
                     
                         <td class='' title='David Rueda Clemente'>PIKABOSS
                         <br/>
-                         
+                        7609
                         </td>
                     
                         <td class='' title='Iván Parreño Benítez'>Navi_v2
                         <br/>
-                         
+                        8181
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6790'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6790'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Adrià Irigaray Pola'>Icey
                         <br/>
-                         
+                        6968
                         </td>
                     
-                        <td class='' title='Pablo Freire Insua'>hipoRoxter
+                        <td class='text-danger' title='Pablo Freire Insua'>hipoRoxter
                         <br/>
-                         
+                        6665
                         </td>
                     
                         <td class='' title='Hossam Zerouali'>ZeRo_V3
                         <br/>
-                         
+                        8017
                         </td>
                     
-                        <td class='' title='Eduardo Cid Perez'>Sii
+                        <td class='text-danger' title='Eduardo Cid Perez'>Sii
                         <br/>
-                         
+                        5986
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6791'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6791'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Sara Díaz Morales'>Null3
+                        <td class='text-danger' title='Sara Díaz Morales'>Null3
                         <br/>
-                         
+                        6693
                         </td>
                     
-                        <td class='' title='Joaquim Ballester'>Quim
+                        <td class='text-danger' title='Joaquim Ballester'>Quim
                         <br/>
-                         
+                        6609
                         </td>
                     
                         <td class='' title='Miguel Ángel Montero Flores'>Pequemiguel
                         <br/>
-                         
+                        8533
                         </td>
                     
                         <td class='' title='Marc Morey Bergas'>DummyKiller
                         <br/>
-                         
+                        7733
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6792'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6792'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Pau Campillo Soro'>SUBARU_WRC
+                        <td class='text-danger' title='Pau Campillo Soro'>SUBARU_WRC
                         <br/>
-                         
+                        5217
                         </td>
                     
-                        <td class='' title='Joel González Jiménez'>klk_manin13
+                        <td class='text-danger' title='Joel González Jiménez'>klk_manin13
                         <br/>
-                         
+                        6749
                         </td>
                     
                         <td class='' title='Yassin El Kaisi'>KaisiBFS6
                         <br/>
-                         
+                        9600
                         </td>
                     
                         <td class='' title='Arnau Claramunt Soler'>Cerberus12
                         <br/>
-                         
+                        7523
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6793'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6793'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='Àlex Vives Sánchez'>Echo
                         <br/>
-                         
+                        11877
                         </td>
                     
                         <td class='' title='Momin Miah Begum'>amigos
                         <br/>
-                         
+                        7603
                         </td>
                     
-                        <td class='' title='Carla Juanes Duran'>Ramonet
+                        <td class='text-danger' title='Carla Juanes Duran'>Ramonet
                         <br/>
-                         
+                        6779
                         </td>
                     
-                        <td class='' title='Joel Sanfeliu Ichihashi'>Jug
+                        <td class='text-danger' title='Joel Sanfeliu Ichihashi'>Jug
                         <br/>
-                         
+                        4527
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6794'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6794'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
                         <td class='' title='David Cañadas López'>Vido
                         <br/>
-                         
+                        9133
                         </td>
                     
-                        <td class='' title='Pol Garcia Vernet'>Polopasi2
+                        <td class='text-danger' title='Pol Garcia Vernet'>Polopasi2
                         <br/>
-                         
+                        6901
                         </td>
                     
-                        <td class='' title='Ismael Tellez Cepeda'>Ismael
+                        <td class='text-danger' title='Ismael Tellez Cepeda'>Ismael
                         <br/>
-                         
+                        5929
                         </td>
                     
                         <td class='' title='Daniel López Martínez'>korxet
                         <br/>
-                         
+                        8391
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6795'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6795'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Albert Comas Pacheco'>mifunc
+                        <td class='text-danger' title='Albert Comas Pacheco'>mifunc
                         <br/>
-                         
+                        5395
                         </td>
                     
                         <td class='' title='Gorka Parra i Ordorica'>Gorka
                         <br/>
-                         
+                        9107
                         </td>
                     
-                        <td class='' title='Isha Shafqat'>Shafq
+                        <td class='text-danger' title='Isha Shafqat'>Shafq
                         <br/>
-                         
+                        5861
                         </td>
                     
                         <td class='' title='Eduardo Gimeno'>Real_Zgz
                         <br/>
-                         
+                        5962
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6796'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6796'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Pol Beltrán Acín'>Rick_Grimes
+                        <td class='text-danger' title='Pol Beltrán Acín'>Rick_Grimes
                         <br/>
-                         
+                        4441
                         </td>
                     
                         <td class='' title='Jordi Otal Salvans'>DeficientAlg
                         <br/>
-                         
+                        5729
                         </td>
                     
-                        <td class='' title='Mireia Oltra'>Curie
+                        <td class='text-danger' title='Mireia Oltra'>Curie
                         <br/>
-                         
+                        4459
                         </td>
                     
                         <td class='' title='Giancarlo Morales Muñoz'>Don
                         <br/>
-                         
+                        5015
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6797'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6797'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Sergi Gonzalez Martos'>Bot_v1
+                        <td class='text-danger' title='Sergi Gonzalez Martos'>Bot_v1
                         <br/>
-                         
+                        6069
                         </td>
                     
-                        <td class='' title='Pol Plana Torrents'>Pol_v5_3_3
+                        <td class='text-danger' title='Pol Plana Torrents'>Pol_v5_3_3
                         <br/>
-                         
+                        7191
                         </td>
                     
                         <td class='' title='Víctor González Bentué'>Vicebentu
                         <br/>
-                         
+                        7636
                         </td>
                     
                         <td class='' title='Nicolas Gonzalo Longueira Millicay'>Miguelito
                         <br/>
-                         
+                        7469
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6798'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6798'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='Alex Brichs de Rioja'>Joselu
+                        <td class='text-danger' title='Alex Brichs de Rioja'>Joselu
                         <br/>
-                         
+                        7091
                         </td>
                     
                         <td class='' title='Isaias Vela Sotil'>Isaias
                         <br/>
-                         
+                        7707
                         </td>
                     
-                        <td class='' title='Roger Canal Estrada'>BigChannel
+                        <td class='text-danger' title='Roger Canal Estrada'>BigChannel
                         <br/>
-                         
+                        4785
                         </td>
                     
                         <td class='' title='Guillem Nieto RIbó'>PrimeV3
                         <br/>
-                         
+                        10802
                         </td>
                     </tr>
                         <tr>
                         <td>
-                            <img src='/img/wait2.gif'>
+                            <a title='View game' style='color: black;' target='_blank' href='/gameviewer/P31294_ca/Viewer/viewer.html?start=yes&game=/competitions/EDA:EDA_Q1_2022_23/match/S6799'>
+                                <i class='fa fa-fw fa-play-circle'></i>
+                            </a>
+                            <a title='Downlaod game' style='color: black;' href='/competitions/EDA:EDA_Q1_2022_23/match/S6799'>
+                                <i class='fa fa-fw fa-download'></i>
+                            </a>
+                             &nbsp; &nbsp; &nbsp;
                         </td>
                     
-                        <td class='' title='David Vendrell'>Loser2
+                        <td class='text-danger' title='David Vendrell'>Loser2
                         <br/>
-                         
+                        3582
                         </td>
                     
                         <td class='' title='Miquel Font Mercadié'>Miquel_FM3
                         <br/>
-                         
+                        13409
                         </td>
                     
                         <td class='' title='Ricard Viñas'>Lilcaldo
                         <br/>
-                         
+                        8479
                         </td>
                     
-                        <td class='' title='Oriol Ramos Puig'>Jutgol
+                        <td class='text-danger' title='Oriol Ramos Puig'>Jutgol
                         <br/>
-                         
+                        3457
                         </td>
                     </tr>
                         <tr>
