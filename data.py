@@ -1,35 +1,34 @@
-import os
 import requests
+import os
 
-# Set the base URL for the website
-base_url = "https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds/"
+# URL of the competition rounds
+competition_url = "https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds"
 
-# Create the pylar.data folder if it doesn't already exist
-if not os.path.exists("pylar.data"):
-    os.mkdir("pylar.data")
+# Maximum number of rounds in the competition
+max_rounds = 242
 
-# Loop through values from 1 to 143
-for value in range(1, 144):
-    # Compose the URL for the current value
-    url = base_url + str(value)
+# Folder where the downloaded files will be saved
+data_folder = "pylar.data"
 
-    # Check if the file for the current URL already exists in the pylar.data folder
-    # If it does, skip downloading it again
-    if os.path.exists(os.path.join("pylar.data", str(value))):
-        print(f"Skipping {url} - file already exists")
-        continue
+# Check if the data folder exists, and create it if it doesn't
+if not os.path.exists(data_folder):
+    os.makedirs(data_folder)
 
-    # Send a GET request to the URL
-    response = requests.get(url)
+# Loop through the rounds of the competition
+for round_number in range(1, max_rounds+1):
+    round_url = f"{competition_url}/{round_number}"
 
-    # Check if the server returned a 200 OK status code
-    # If it didn't, skip downloading the file
-    if response.status_code != 200:
-        print(
-            f"Skipping {url} - server returned status code {response.status_code}")
-        continue
+    # Check if the round page has changed
+    page_content = requests.get(round_url).text
 
-    # Save the file in the pylar.data folder
-    with open(os.path.join("pylar.data", str(value)), "w") as f:
-        f.write(response.text)
-        print(f"Saved {url}")
+    # If the file already exists, check if it has been updated
+    if os.path.exists(f"{data_folder}/{round_number}.pylar"):
+        with open(f"{data_folder}/{round_number}.pylar", "r") as f:
+            previous_content = f.read()
+        if page_content == previous_content:
+            # If the page hasn't changed, skip this round
+            continue
+
+    # If the file doesn't exist or the page has changed, update the file in the data folder
+    with open(f"{data_folder}/{round_number}.pylar", "w") as f:
+        f.write(page_content)
