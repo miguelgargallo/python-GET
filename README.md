@@ -1,8 +1,6 @@
 # Pylar Data Downloader
 
-To modify the code to check on https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds what is the first td inside tbody and print it, you can use the requests library to make a GET request to the competition rounds URL and parse the response using a library like BeautifulSoup. You can then find the first td inside the tbody and print its text. You can also set the value of the first td to the max_rounds variable in the code.
-
-Here is an example of how you can modify the code to achieve this:
+This code in a Python environment, such as a Jupyter notebook or a Python script. Make sure you have installed the wget and BeautifulSoup modules first, using pip install wget bs4 or similar.
 
 ## About the License
 
