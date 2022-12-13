@@ -7,6 +7,6 @@ url = 'https://jutge.org/competitions/EDA:EDA_Q1_2022_23/rounds'
 response = requests.get(url)
 
 # Open a file for writing
-with open('website_contents.md', 'w') as f:
+with open('website_contents.pylar', 'w') as f:
     # Write the contents of the website to the file
     f.write(response.text)
