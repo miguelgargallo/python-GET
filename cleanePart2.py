@@ -7,11 +7,7 @@ directory = "pylar.data"
 for filename in os.listdir(directory):
   # Open the file in read mode
   with open(os.path.join(directory, filename), "r") as file:
-    # Read the first 188 lines and discard them
-    for _ in range(188):
-      file.readline()
-
-    # Read the next 7902 lines
+    # Read the first 7902 lines
     for _ in range(7902):
       file.readline()
 

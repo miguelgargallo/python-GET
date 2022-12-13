@@ -1,0 +1,1 @@
+This code will read each file in the "pylar.data" folder, discard the first 188 lines, and then write the remaining data back to the file. Note that this code will overwrite the existing files, so make sure you have a backup of the original files before running it.
