@@ -31,38 +31,33 @@ def get_resultats(i):
                     res[nom]['partides'] += 1
                     res[nom]['punts'].append(num)
                     nom = None
-    # pprint.pprint(noms)
     return res
 
 
+# Use the get_resultats function to parse the results for each match
 res = {}
 claus_per_partida = []
 N = 71
 for i in range(N-20, N+1):
     r = get_resultats(i)
-    for (x, y) in r.items():
-        if x not in res:
-            res[x] = [y]
-        else:
-            res[x].append(y)
     claus_per_partida.append(set(r.keys()))
+    for k in r:
+        if k not in res:
+            res[k] = {'punts': [], 'partides': 0}
+        res[k]['partides'] += 1
+        res[k]['punts'].append(r[k]['punts'])
 
-res_analitzats = {}
+# Get the players that have played in all the matches
+claus = claus_per_partida[0]
+for c in claus_per_partida[1:]:
+    claus = claus.intersection(c)
 
-for (x, y) in res.items():
-    # if len(y)<15: continue
-    if x not in claus_per_partida[-1]:
-        continue
-    punts = [k for z in y for k in z['punts']]
-    partides = [z['partides'] for z in y]
-    res_analitzats[x] = {}
-    res_analitzats[x]['punts'] = {'min': min(
-        punts), 'max': max(punts), 'avg': sum(punts)/len(punts)}
-    res_analitzats[x]['torns'] = {'min': min(partides), 'max': max(
-        partides), 'avg': sum(partides)/len(partides)}
-    res_analitzats[x]['num_partides'] = len(partides)
+# Print the results
+pprint.pprint(res)
 
-for (i, (x, y)) in enumerate(sorted(res_analitzats.items(), key=lambda z: z[1]['torns']['avg']), 1):
-    print(f'Pos {i}:', x)
-    pprint.pprint(res_analitzats[x])
-    print('')
+# Save all to an output file called super.md
+with open('super.md', 'w') as f:
+    f.write('| Nom | Puntuació |\n')
+    f.write('| --- | --------- |\n')
+    for k in sorted(res, key=lambda x: res[x]['punts'], reverse=True):
+        f.write('| {} | {} |\n'.format(k, res[k]['punts']))
