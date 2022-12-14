@@ -37,8 +37,8 @@ def get_resultats(i):
 # Use the get_resultats function to parse the results for each match
 res = {}
 claus_per_partida = []
-N = 71
-for i in range(N-20, N+1):
+N = 118
+for i in range(N-117, N+1):
     r = get_resultats(i)
     claus_per_partida.append(set(r.keys()))
     for k in r:
@@ -56,7 +56,7 @@ for c in claus_per_partida[1:]:
 pprint.pprint(res)
 
 # Save all to an output file called super.md
-with open('super.md', 'w') as f:
+with open('podium.pylar', 'w') as f:
     f.write('| Nom | Puntuació |\n')
     f.write('| --- | --------- |\n')
     for k in sorted(res, key=lambda x: res[x]['punts'], reverse=True):
